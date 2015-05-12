@@ -25,3 +25,8 @@ License
 .. REFERENCES
 
 .. _FIWARE Lab: http://www.fiware.org/lab/
+
+
+.. image:: https://badges.gitter.im/Join%20Chat.svg
+   :alt: Join the chat at https://gitter.im/telefonicaid/fiware-health
+   :target: https://gitter.im/telefonicaid/fiware-health?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
